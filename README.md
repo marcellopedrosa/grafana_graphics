@@ -1,9 +1,11 @@
 #1. JVM MEMORY Graphic#
 
 G1 Eden Space MB
+
 (jvm_memory_used_bytes{application="rest-app",id="G1 Eden Space",job="rest-app"})/1048576
 
 G1 Survivor Space MB
+
 jvm_memory_used_bytes{application="rest-app",id="G1 Survivor Space",job="rest-app"}/1048576
 
 #2. STATUS HTTP ERRORS Graphic#
