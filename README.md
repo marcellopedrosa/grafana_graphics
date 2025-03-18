@@ -16,7 +16,7 @@ http_server_requests_seconds_max{application="rest-app", status="404",  job="res
 
 #3. DATABASE ERROS Graphic#
 
-spring_data_repository_invocations_seconds_max{application="rest-crm",state="ERROR"}
+spring_data_repository_invocations_seconds_max{application="rest-app",state="ERROR"}
 
 #4. UP TIME Graphic#
 
